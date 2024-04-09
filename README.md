@@ -39,10 +39,7 @@ JWT Authentication: JSON Web Tokens (JWT) are used for authentication and author
 Real-time Messaging: Socket.io facilitates real-time messaging between users, allowing them to send and receive messages instantly.
 
 Online User Status: Socket.io and React Context are likely used to track the online status of users. When a user connects to the chat application, their status is updated in real-time, allowing others to see if they're online.
-<<<<<<< Updated upstream
 
-Error Handling: Error handling is implemented both on the server and the client to ensure smooth operation of the application. This likely involves validating user inputs, handling server errors gracefully, and providing informative error messages to users.
-=======
 Error Handling: Error handling is implemented both on the server and the client to ensure smooth operation of the application. This likely involves validating user inputs, handling server errors gracefully, and providing informative error messages to users.
 
 
