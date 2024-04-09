@@ -1,6 +1,10 @@
 # fchat-realtime-chatapp
 fChat is a sleek and efficient real-time chat application designed to streamline communication and foster connections.
 
+<div align="center">
+<img src="./docs\Images\readme1.jpg" width="10000" height="500">
+</div>
+
 ## Some Features of This App:
 1.Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
 
@@ -13,6 +17,10 @@ fChat is a sleek and efficient real-time chat application designed to streamline
 5.Global state management with Zustand
 
 6.Error handling both on the server and on the client
+
+<div align="center">
+<img src="./docs\Images\readme2.jpg" width="10000" height="500">
+</div>
 
 ## Frontend:
 
