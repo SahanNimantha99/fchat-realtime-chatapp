@@ -9,7 +9,7 @@
   "scripts": {
     "server": "nodemon backend/server.js"
   },
-  "type": "module",
+  "type":"module",
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -19,7 +19,6 @@
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "jsonwebtoken": "^9.0.2",
-    "mongodb": "^6.5.0",
     "mongoose": "^8.3.1",
     "socket.io": "^4.7.5"
   },
